@@ -6,7 +6,7 @@ This is a Java Swing-based online quiz application that uses MySQL for data stor
 
 - User authentication (login system)
 - Randomized questions per user
-- Quiz timer (30 seconds per question)
+- Quiz timer (60 seconds per question)
 - Scoring and result display with correct answers
 - Result storage in database
 - Quiz reports generation
