@@ -1,0 +1,18 @@
+Quiz Reports
+============
+
+User: user1, Quiz: Java Quiz, Score: 5/20, Time: 106 sec, Date: 2025-10-25 11:42:36.0
+----------------------------------------
+User: user1, Quiz: Java Quiz, Score: 0/20, Time: 2 sec, Date: 2025-10-25 11:32:13.0
+----------------------------------------
+User: user1, Quiz: Java Quiz, Score: 0/20, Time: 21 sec, Date: 2025-10-25 11:22:29.0
+----------------------------------------
+User: user1, Quiz: Java Quiz, Score: 8/20, Time: 62 sec, Date: 2025-10-25 11:21:20.0
+----------------------------------------
+User: user1, Quiz: Java Quiz, Score: 5/20, Time: 42 sec, Date: 2025-10-25 11:13:46.0
+----------------------------------------
+User: user1, Quiz: Java Quiz, Score: 1/20, Time: 24 sec, Date: 2025-10-25 11:06:45.0
+----------------------------------------
+User: admin, Quiz: Java Quiz, Score: 6/20, Time: 9 sec, Date: 2025-10-25 11:03:48.0
+----------------------------------------
+

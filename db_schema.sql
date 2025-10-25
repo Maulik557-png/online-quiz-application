@@ -48,7 +48,7 @@ CREATE TABLE quiz_results (
 -- Insert sample data
 INSERT INTO users (username, password) VALUES ('admin', 'admin123'), ('user1', 'pass1');
 
-INSERT INTO quizzes (title, description) VALUES ('General Knowledge', 'Basic general knowledge quiz');
+INSERT INTO quizzes (title, description) VALUES ('Java Quiz', 'Advanced Java Questions');
 
 INSERT INTO questions (quiz_id, question_text, option_a, option_b, option_c, option_d, correct_answer) VALUES
 -- 1
