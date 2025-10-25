@@ -49,8 +49,8 @@ This is a Java Swing-based online quiz application that uses MySQL for data stor
 
 ## Screenshots
 
-Screenshots of the login dialog, quiz interface, and results screen provided under screenshots folder.
+For Screenshots of the login dialog, quiz interface, and results screen visit screenshots folder.
 
 ## Work flow
 
-Project flow chart representing the flow is provided under workflow folder.
+For Project flow chart representing the flow visit workflow folder.
